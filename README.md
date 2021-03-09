@@ -1,6 +1,6 @@
 # Moveit
 
-Projeto feito para o Next Level Week, semana de imersão em React.js realizada pela Rocketseat.
+Projeto de front-end feito para o Next Level Week, semana de imersão em React.js realizada pela Rocketseat.
 
 ### O que é?
 
